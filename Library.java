@@ -41,7 +41,7 @@ public class Library extends Building implements LibraryRequirements {
 
     public void printCollection(){
       System.out.println(collection.toString());
-      }
+    }
     
   
     public static void main(String[] args) {
